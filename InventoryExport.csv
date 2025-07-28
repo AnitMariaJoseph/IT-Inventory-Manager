@@ -1,0 +1,6 @@
+﻿"ID","Name","Type","Location","Status"
+"1","Printer-01","Printer","IT Room","Online"
+"2","Laptop-12","Laptop","Office A","Offline"
+"3","Switch-04","Switch","Server Room","Online"
+"4","Printer-02","Printer","Director Office","Online"
+"5","Laptop-05","Laptop","Science Lab","Online"
