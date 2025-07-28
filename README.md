@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# IT Asset Inventory Manager
-=======
 # IT Inventory Manager
->>>>>>> 7d3917d6df0e8d813971e14adbe99a291f3b30a9
 
 A simple PowerShell + SQLite desktop GUI tool to manage IT assets. Built using Windows Forms for the GUI and `sqlite3.exe` as the backend database.
 
