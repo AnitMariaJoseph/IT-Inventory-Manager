@@ -3,7 +3,11 @@ Add-Type -AssemblyName System.Drawing
 
 # === Form ===
 $form = New-Object System.Windows.Forms.Form
+<<<<<<< HEAD
 $form.Text = "IT Asset Inventory Manager"
+=======
+$form.Text = "IT Inventory Manager"
+>>>>>>> 7d3917d6df0e8d813971e14adbe99a291f3b30a9
 $form.Size = New-Object System.Drawing.Size(700, 450)
 $form.StartPosition = "CenterScreen"
 $form.BackColor = [System.Drawing.Color]::FromArgb(230, 245, 250)
@@ -19,7 +23,11 @@ $form.Controls.Add($titlePanel)
 
 # === Title Label ===
 $titleLabel = New-Object System.Windows.Forms.Label
+<<<<<<< HEAD
 $titleLabel.Text = "  IT Asset Inventory Manager"
+=======
+$titleLabel.Text = "  IT Inventory Manager"
+>>>>>>> 7d3917d6df0e8d813971e14adbe99a291f3b30a9
 $titleLabel.ForeColor = "White"
 $titleLabel.Font = New-Object System.Drawing.Font("Segoe UI", 18, [System.Drawing.FontStyle]::Bold)
 $titleLabel.AutoSize = $false

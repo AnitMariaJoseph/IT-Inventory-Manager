@@ -3,7 +3,11 @@ Add-Type -AssemblyName System.Drawing
 
 # === SQLite paths ===
 $sqlitePath = "C:\SQLite\sqlite3.exe"
+<<<<<<< HEAD
 $dbPath = "C:\Users\user\Desktop\Python\Database project\inventory.db"
+=======
+$dbPath = "C:\Users\user\Desktop\Python\IT Inventory Manager\inventory.db"
+>>>>>>> 7d3917d6df0e8d813971e14adbe99a291f3b30a9
 
 # === Form ===
 $form = New-Object Windows.Forms.Form
